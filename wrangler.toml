@@ -1,0 +1,8 @@
+name = "meu-financeiro"
+main = "src/worker.js"
+compatibility_date = "2026-09-21"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "meu-financeiro-db"
+database_id = "ce23aab9-fcab-4975-9a4a-c4c96d145b21"
